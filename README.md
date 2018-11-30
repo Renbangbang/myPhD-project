@@ -1,5 +1,5 @@
 # myPhD-project
-Record the puzzles along the way in finishing my PhD
+Record the puzzles along the way in chasing my PhD
 
 # sketch
 * [VNF-in-multicast](https://github.com/Renbangbang/myPhD-project/tree/master/VNF-in-multicast) ***Accepted in ICDCS 2018***
